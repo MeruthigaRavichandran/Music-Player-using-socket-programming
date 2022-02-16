@@ -2,6 +2,7 @@
 Music Player using Socket Project in Python
 
 **ABSTRACT**
+
 This project is about Sockect Programming using Python. Sockets 
 help you to establish these connections from server to client, and 
 Python certainly simplifies connections.
